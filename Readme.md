@@ -1,14 +1,15 @@
 # Hi 👋!
-# Nice to meet you! I´m Lucas Gonçalves!
+## Nice to meet you! I´m Lucas Gonçalves!
 [![Linkedin Badge](https://img.shields.io/badge/-lucas%20goncalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrgoncalves/)](https://www.linkedin.com/in/lucasrgoncalves/)
 [![E-Mail](https://img.shields.io/badge/E--Mail-lucas.r.goncalves@outlook.com-blue)](lucas.r.goncalves@outlook.com)
+[![HitCount](http://hits.dwyl.com/Auriflanos/Auriflanos/Auriflanos.svg)](http://hits.dwyl.com/Auriflanos/Auriflanos/Auriflanos)
 
 [![GitHub stars](https://img.shields.io/github/stars/tterb/playmusic.svg?style=social&label=Star)](https://github.com/JonSnow/MyBadges)
 [![GitHub watchers](https://img.shields.io/github/watchers/tterb/playmusic.svg?style=social&label=Watch)](https://github.com/JonSnow/MyBadges)
 [![GitHub forks](https://img.shields.io/github/forks/tterb/playmusic.svg?style=social&label=Fork)](https://github.com/JonSnow/MyBadges)
 [![GitHub followers](https://img.shields.io/github/followers/tterb.svg?style=social&label=Follow)](https://github.com/JonSnow/MyBadges)
 
-[![HitCount](http://hits.dwyl.com/Auriflanos/Auriflanos/Auriflanos.svg)](http://hits.dwyl.com/Auriflanos/Auriflanos/Auriflanos)
+
 
 ![Intro](https://drive.google.com/uc?export=view&id=1k9UJarDvrRkDODxPePE5otmb42iJxRgW)
 
