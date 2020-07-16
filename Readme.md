@@ -2,7 +2,7 @@
 ## Nice to meet you! I´m Lucas Gonçalves!
 [![Linkedin Badge](https://img.shields.io/badge/-lucas%20goncalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrgoncalves/)](https://www.linkedin.com/in/lucasrgoncalves/)
 [![E-Mail](https://img.shields.io/badge/E--Mail-lucas.r.goncalves@outlook.com-blue)](lucas.r.goncalves@outlook.com)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/auriflanos)
 [![HitCount](http://hits.dwyl.com/auriflanos/auriflanos/readmemd.svg)](http://hits.dwyl.com/auriflanos/auriflanos/readme.md)
 
 [![GitHub stars](https://img.shields.io/github/stars/tterb/playmusic.svg?style=social&label=Star)](https://github.com/JonSnow/MyBadges)
