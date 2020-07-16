@@ -9,10 +9,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/tterb/playmusic.svg?style=social&label=Fork)](https://github.com/JonSnow/MyBadges)
 [![GitHub followers](https://img.shields.io/github/followers/tterb.svg?style=social&label=Follow)](https://github.com/JonSnow/MyBadges)
 
-
-
 ![Intro](https://drive.google.com/uc?export=view&id=1k9UJarDvrRkDODxPePE5otmb42iJxRgW)
-
 
 I'm Lucas Gonçalves, I'm a Full Stack developer student 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
 
