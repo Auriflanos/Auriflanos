@@ -1,9 +1,9 @@
 # Hi 👋!
 ## Nice to meet you! I´m Lucas Gonçalves!
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Goncalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrgoncalves/)](https://www.linkedin.com/in/lucasrgoncalves/)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Goncalves-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrgoncalves/)](https://www.linkedin.com/in/lucasrgoncalves/)
 [![E-Mail](https://img.shields.io/badge/E--Mail-lucas.r.goncalves@outlook.com-blue)](mailto:lucas.r.goncalves@outlook.com)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/auriflanos)
-[![GitHub followers](https://img.shields.io/github/followers/auriflanos?label=Followers&style=social)](https://github.com/auriflanos)
+[![GitHub followers](https://img.shields.io/github/followers/auriflanos?label=Followers&style=flat)](https://github.com/auriflanos)
+[![WhatsApp Badge](https://img.shields.io/badge/Send%20me%20a%20message%20@%20WhatsApp-%2325D366.svg?&style=flat&logo=whatsapp&logoColor=white")](https://api.whatsapp.com/send?phone=5511930050349&text=Hello!%20I%C2%B4ve%20found%20you%20on%20GitHub!)
 
 ![Intro](https://drive.google.com/uc?export=view&id=1k9UJarDvrRkDODxPePE5otmb42iJxRgW)
 
