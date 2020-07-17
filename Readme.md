@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-lucas%20goncalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrgoncalves/)](https://www.linkedin.com/in/lucasrgoncalves/)
 [![E-Mail](https://img.shields.io/badge/E--Mail-lucas.r.goncalves@outlook.com-blue)](mailto:lucas.r.goncalves@outlook.com)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/auriflanos)
-[![HitCount](http://hits.dwyl.com/auriflanos/auriflanos.svg)](http://hits.dwyl.com/auriflanos/auriflanos)
+[![HitCount](http://hits.dwyl.com/auriflanos/readme.svg)](http://hits.dwyl.com/auriflanos/readme)
 [![GitHub followers](https://img.shields.io/github/followers/auriflanos?label=Followers&style=social)](https://github.com/auriflanos)
 
 ![Intro](https://drive.google.com/uc?export=view&id=1k9UJarDvrRkDODxPePE5otmb42iJxRgW)
