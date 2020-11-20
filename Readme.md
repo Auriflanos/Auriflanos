@@ -7,9 +7,9 @@
 
 ![Intro](https://drive.google.com/uc?export=view&id=1k9UJarDvrRkDODxPePE5otmb42iJxRgW)
 
-I'm Lucas Gonçalves, I'm a Full Stack developer student 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
+I'm a Full Stack developer student 👨‍💻 who is passionate about technologies! 
 
-#### 🔭 I’m currently a Global CAPEX Sr. Buyer @ Jacobs Douwe Egberts & Technology enthusiast;
+#### 🔭 I’m currently a CAPEX Sr. Buyer @ Jacobs Douwe Egberts & Technology enthusiast;
 ---
 #### 🌱 I’m currently learning:
 - Javascript
@@ -18,11 +18,11 @@ I'm Lucas Gonçalves, I'm a Full Stack developer student 👨‍💻 who is pass
 
 - HTML
 
--  CSS
+- CSS
 
--  Nunjucks
+- Nunjucks
 
--  ReactJS
+- ReactJS
 
 ---
 
